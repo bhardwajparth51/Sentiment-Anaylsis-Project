@@ -1,4 +1,4 @@
-📖 Project Description
+## 📖 Project Description
 
 This project performs Sentiment Analysis on the IMDB 50K Movie Reviews Dataset, a benchmark dataset containing 50,000 reviews equally divided into positive and negative sentiments. The goal is to build a machine learning model that can automatically classify whether a given movie review expresses a positive or negative opinion.
 
@@ -14,7 +14,7 @@ Evaluation: Performance metrics like accuracy, precision, recall, and F1-score a
 
 Visualization: Charts to show sentiment distribution and confusion matrix for model analysis.
 
-🎯 Applications
+## 🎯 Applications
 
 Automatic movie review classification
 
